@@ -1,10 +1,12 @@
-## Welcome to GitHub Pages
+## Welcome to My First Webpage. 
+
+title: Welcome to My First Webpage!
 
 You can use the [editor on GitHub](https://github.com/haritejavarma02/haritejavarma/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### I hope this journey will teach me lots of awesome things. Fingers Crossed. But this is really cool.
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
